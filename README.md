@@ -53,3 +53,9 @@ This is an Android project developed in Android Studio that implements a complet
 *   Add client-side validation for email format and password strength.
 *   Create a more detailed user profile screen.
 *   Implement light and dark theme support.
+
+
+<img width="255" height="600" alt="image" src="https://github.com/user-attachments/assets/f2a2e799-08d1-466f-b50a-24b857fabfd1" />
+<img width="255" height="600" alt="image" src="https://github.com/user-attachments/assets/d7d2cd75-2088-44b2-b87a-e4de427f9bc1" />
+<img width="255" height="600" alt="image" src="https://github.com/user-attachments/assets/e34f893e-4bd3-483c-94e7-84a7457cd95e" />
+
